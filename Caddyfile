@@ -1,0 +1,10 @@
+:80 {
+    root * /data
+    file_server browse
+
+    log {
+    	level DEBUG
+        output stdout
+    }
+}
+

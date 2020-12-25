@@ -1,0 +1,782 @@
+[
+    {
+        "id": "ArgentinaBuenosAiresFineArtsNationalMuseum",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Buenos Aires",
+        "place": "Fine Arts National Museum",
+        "bbox": [
+            -58.39337,
+            -34.58422,
+            -58.39207,
+            -34.58333
+        ]
+    },
+    {
+        "id": "ArgentinaBuenosAiresNationalGeographicInstitute",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Buenos Aires",
+        "place": "National Geographic Institute",
+        "bbox": [
+            -58.4401,
+            -34.57372,
+            -58.43915,
+            -34.57028
+        ]
+    },
+    {
+        "id": "ArgentinaBuenosEduardoSivoriPlasticArtsMuseum",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Buenos Aires",
+        "place": "Eduardo Sívori Plastic Arts Museum",
+        "bbox": [
+            -58.4183,
+            -34.57062,
+            -58.41744,
+            -34.56729
+        ]
+    },
+    {
+        "id": "ArgentinaBuenosAltoAvellanedaShoppingMall",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Buenos Aires / Avellaneda",
+        "place": "Alto Avellaneda Shopping Mall",
+        "bbox": [
+            -58.36999,
+            -34.6791,
+            -58.36662,
+            -34.67365
+        ]
+    },
+    {
+        "id": "ArgentinaCordobaMathAstronomyPhysicsAndComputerScienceFaculty",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Córdoba",
+        "place": "Math, Astronomy, Physics and Computer Science Faculty",
+        "bbox": [
+            -64.19417,
+            -31.43984,
+            -64.19292,
+            -31.43645
+        ]
+    },
+    {
+        "id": "ArgentinaMisionesPosadasMisionesNationalUniversity",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Misiones / Posadas",
+        "place": "Misiones National University",
+        "bbox": [
+            -55.88734,
+            -27.43746,
+            -55.8861,
+            -27.43375
+        ]
+    },
+    {
+        "id": "ArgentinaSantaFeFunesRosarioInternationalAirport",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Santa Fe / Funes",
+        "place": "Rosario International Airport",
+        "bbox": [
+            -60.78098,
+            -32.9182,
+            -60.77986,
+            -32.91568
+        ]
+    },
+    {
+        "id": "ArgentinaSantaFeFunesFishertonPlazaChic",
+        "update": "0",
+        "country": "Argentina",
+        "town": "Santa Fe / Funes",
+        "place": "Fisherton Plaza Chic",
+        "bbox": [
+            -60.7788,
+            -32.92051,
+            -60.77712,
+            -32.91638
+        ]
+    },
+    {
+        "id": "AustraliaSidneyCentralRailwayStation",
+        "update": "0",
+        "country": "Australia",
+        "town": "Sidney",
+        "place": "Central (railway station)",
+        "bbox": [
+            151.20318,
+            -33.88627,
+            151.20823,
+            -33.88173
+        ]
+    },
+    {
+        "id": "AustriaViennaSudtirolerPlatz",
+        "update": "0",
+        "country": "Austria",
+        "town": "Vienna",
+        "place": "Südtiroler Platz",
+        "bbox": [
+            16.37493,
+            48.18283,
+            16.37822,
+            48.18602
+        ]
+    },
+    {
+        "id": "BrasilBlumenauCentroShoppingNeumarkt",
+        "update": "0",
+        "country": "Brasil",
+        "town": "Blumenau",
+        "place": "Centro / Shopping Neumarkt",
+        "bbox": [
+            -49.07125,
+            -26.92366,
+            -49.06853,
+            -26.91764
+        ]
+    },
+    {
+        "id": "BrasilBlumenauBremenCenter",
+        "update": "0",
+        "country": "Brasil",
+        "town": "Blumenau",
+        "place": "Bremen Center",
+        "bbox": [
+            -49.0691,
+            -26.91866,
+            -49.06802,
+            -26.91532
+        ]
+    },
+    {
+        "id": "BrasilRioDeJaneiroBarraDaTijuca",
+        "update": "0",
+        "country": "Brasil",
+        "town": "RioDeJaneiro",
+        "place": "BarraDaTijuca",
+        "bbox": [
+            -43.36717,
+            -23.00077,
+            -43.36449,
+            -22.99749
+        ]
+    },
+    {
+        "id": "ColombiaDistritoCapitalBogotaCatedralPrimadaDeBogota",
+        "update": "0",
+        "country": "Colombia",
+        "town": "Distrito Capital / Bogotá",
+        "place": "Catedral Primada de Bogotá",
+        "bbox": [
+            -74.07583,
+            4.59576,
+            -74.07442,
+            4.59926
+        ]
+    },
+    {
+        "id": "CostaRicaSanJoseStarbucks",
+        "update": "0",
+        "country": "Costa Rica",
+        "town": "San José",
+        "place": "Starbucks",
+        "bbox": [
+            -84.10992,
+            9.93529,
+            -84.10939,
+            9.93968
+        ]
+    },
+    {
+        "id": "EcuadorPichinchaQuitoQuicentroShopping",
+        "update": "0",
+        "country": "Ecuador",
+        "town": "Pichincha Quito",
+        "place": "Quicentro Shopping",
+        "bbox": [
+            -78.48073,
+            -0.17816,
+            -78.47782,
+            -0.17442
+        ]
+    },
+    {
+        "id": "EnglandStratfordTheStreet",
+        "update": "0",
+        "country": "England",
+        "town": "Stratford",
+        "place": "The Street",
+        "bbox": [
+            -0.00981,
+            51.53881,
+            -0.004,
+            51.54463
+        ]
+    },
+    {
+        "id": "EnglandLondonCanaryWharf",
+        "update": "0",
+        "country": "England",
+        "town": "London",
+        "place": "Canary Wharf",
+        "bbox": [
+            -0.0273,
+            51.496,
+            -0.0149,
+            51.50889
+        ]
+    },
+    {
+        "id": "EnglandReadingMicrosoftCampus",
+        "update": "0",
+        "country": "England",
+        "town": "Reading",
+        "place": "Microsoft Campus",
+        "bbox": [
+            -0.92757,
+            51.4605,
+            -0.92387,
+            51.46361
+        ]
+    },
+    {
+        "id": "FranceParisPalaisDuLouvre",
+        "update": "0",
+        "country": "France",
+        "town": "Paris",
+        "place": "Palais du Louvre",
+        "bbox": [
+            2.32987,
+            48.85719,
+            2.34403,
+            48.86445
+        ]
+    },
+    {
+        "id": "FranceGrenobleGrandPlace",
+        "update": "0",
+        "country": "France",
+        "town": "Grenoble",
+        "place": "Grand Place",
+        "bbox": [
+            5.72469,
+            45.1527,
+            5.73383,
+            45.15947
+        ]
+    },
+    {
+        "id": "FranceNantesCentreCommercialBeaulieu",
+        "update": "0",
+        "country": "France",
+        "town": "Nantes",
+        "place": "Centre commercial Beaulieu",
+        "bbox": [
+            -1.5377,
+            47.20364,
+            -1.53222,
+            47.207
+        ]
+    },
+    {
+        "id": "FranceRennesCampusDeVillejean",
+        "update": "0",
+        "country": "France",
+        "town": "Rennes",
+        "place": "Université de Rennes 2 - Campus de Villejean",
+        "bbox": [
+            -1.70475,
+            48.11553,
+            -1.69465,
+            48.12278
+        ]
+    },
+    {
+        "id": "FranceIndreEtLoireChenonceauxChateauDeChenonceau",
+        "update": "0",
+        "country": "France",
+        "town": "Indre-et-Loire / Chenonceaux",
+        "place": "Château de Chenonceau",
+        "bbox": [
+            1.07002,
+            47.32338,
+            1.0708,
+            47.32583
+        ]
+    },
+    {
+        "id": "FranceLoirEtCherTalcyChateauDeTalcy",
+        "update": "0",
+        "country": "France",
+        "town": "Loir-et-Cher / Talcy",
+        "place": "Château de Talcy",
+        "bbox": [
+            1.44418,
+            47.76798,
+            1.44499,
+            47.77097
+        ]
+    },
+    {
+        "id": "FranceNordVilleneuveDAscqBatimentsDuLIFLIRCICA",
+        "update": "0",
+        "country": "France",
+        "town": "Nord / Villeneuve d'Ascq",
+        "place": "Bâtiments du LIFL IRCICA",
+        "bbox": [
+            3.14564,
+            50.60357,
+            3.14716,
+            50.6058
+        ]
+    },
+    {
+        "id": "FranceParisTGI",
+        "update": "0",
+        "country": "France",
+        "town": "Paris",
+        "place": "TGI",
+        "bbox": [
+            2.34292,
+            48.85359,
+            2.34635,
+            48.85773
+        ]
+    },
+    {
+        "id": "FranceParisENSRueDUUlm",
+        "update": "0",
+        "country": "France",
+        "town": "Paris",
+        "place": "ENS - Rue d'Ulm",
+        "bbox": [
+            2.34374,
+            48.83926,
+            2.34592,
+            48.84397
+        ]
+    },
+    {
+        "id": "FranceParisParisGareDuNord",
+        "update": "0",
+        "country": "France",
+        "town": "Paris",
+        "place": "Gare du Nord",
+        "bbox": [
+            2.35373,
+            48.87754,
+            2.35857,
+            48.8862
+        ]
+    },
+    {
+        "id": "FranceParisGareDeLyon",
+        "update": "0",
+        "country": "France",
+        "town": "Paris",
+        "place": "Gare de Lyon",
+        "bbox": [
+            2.37233,
+            48.83915,
+            2.37697,
+            48.84492
+        ]
+    },
+    {
+        "id": "FranceParisBibliothequeFrancoisMitterrandTrainStation",
+        "update": "0",
+        "country": "France",
+        "town": "Paris",
+        "place": "Bibliothèque François Mitterrand / train station",
+        "bbox": [
+            2.37653,
+            48.82853,
+            2.37875,
+            48.8295
+        ]
+    },
+    {
+        "id": "FranceParisECEParis",
+        "update": "0",
+        "country": "France",
+        "town": "Paris",
+        "place": "ECE-Paris",
+        "bbox": [
+            2.28625,
+            48.85066,
+            2.28751,
+            48.85307
+        ]
+    },
+    {
+        "id": "FranceParisGareDeLEst",
+        "update": "1m",
+        "country": "France",
+        "town": "Paris",
+        "place": "Gare de l'Est",
+        "bbox": [
+            2.35787,
+            48.87617,
+            2.3614,
+            48.87758
+        ]
+    },
+    {
+        "id": "FrancePuyDeDomeClermontFerrandCentreJaude",
+        "update": "0",
+        "country": "France",
+        "town": "Puy-de-Dôme Clermont Ferrand",
+        "place": "Centre Jaude",
+        "bbox": [
+            3.0797,
+            45.77415,
+            3.08377,
+            45.77587
+        ]
+    },
+    {
+        "id": "FranceRhoneLyonGareDeLaPartDieu",
+        "update": "0",
+        "country": "France",
+        "town": "Rhone / Lyon",
+        "place": "Gare de la Part-Dieu",
+        "bbox": [
+            4.85936,
+            45.75947,
+            4.86156,
+            45.76161
+        ]
+    },
+    {
+        "id": "FranceRhoneLyonHallePaulBocuse",
+        "update": "0",
+        "country": "France",
+        "town": "Rhone / Lyon",
+        "place": "Halle Paul Bocuse",
+        "bbox": [
+            4.85016,
+            45.76189,
+            4.85134,
+            45.76384
+        ]
+    },
+    {
+        "id": "FranceSeineEtMarneMaincyChateauDeVauxLeVicomte",
+        "update": "0",
+        "country": "France",
+        "town": "Seine-et-Marne / Maincy",
+        "place": "Château de Vaux-le-Vicomte",
+        "bbox": [
+            2.71362,
+            48.56451,
+            2.71466,
+            48.56722
+        ]
+    },
+    {
+        "id": "FranceToulouseUniversiteToulouseJeanJaures",
+        "update": "0",
+        "country": "France",
+        "town": "Toulouse",
+        "place": "Université Toulouse Jean Jaurès",
+        "bbox": [
+            1.39956,
+            43.57421,
+            1.40576,
+            43.58275
+        ]
+    },
+    {
+        "id": "FranceToulousePlaceVictorHugo",
+        "update": "0",
+        "country": "France",
+        "town": "Toulouse",
+        "place": "Place Victor Hugo",
+        "bbox": [
+            1.44632,
+            43.60529,
+            1.447,
+            43.60764
+        ]
+    },
+    {
+        "id": "FranceToulousePlaceOccitane",
+        "update": "0",
+        "country": "France",
+        "town": "Toulouse",
+        "place": "Place Occitane",
+        "bbox": [
+            1.44799,
+            43.60077,
+            1.45087,
+            43.60483
+        ]
+    },
+    {
+        "id": "FranceValDeMarneThiaisCentrecommercialBelleEpine",
+        "update": "0",
+        "country": "France",
+        "town": "Val-de-Marne / Thiais",
+        "place": "Centre commercial Belle Épine",
+        "bbox": [
+            2.36905,
+            48.75566,
+            2.37395,
+            48.75793
+        ]
+    },
+    {
+        "id": "FranceYvelinesVelizyVillacoublayCentreCommercialVelizy2",
+        "update": "0",
+        "country": "France",
+        "town": "Yvelines / Vélizy-Villacoublay",
+        "place": "Centre commercial Vélizy 2",
+        "bbox": [
+            2.21856,
+            48.77735,
+            2.22209,
+            48.78526
+        ]
+    },
+    {
+        "id": "FranceParisBeaubourg",
+        "update": "1m",
+        "country": "France",
+        "town": "Paris",
+        "place": "Beaubourg",
+        "bbox": [
+            2.3517,
+            48.85819,
+            2.35335,
+            48.86253
+        ]
+    },
+    {
+        "id": "FranceParisLesHalles",
+        "update": "1m",
+        "country": "France",
+        "town": "Paris",
+        "place": "Les Halles",
+        "bbox": [
+            2.34161,
+            48.85778,
+            2.34883,
+            48.86625
+        ]
+    },
+    {
+        "id": "GermanyBerlinCentralStation",
+        "update": "0",
+        "country": "Germany",
+        "town": "Berlin",
+        "place": "Berlin Central Station",
+        "bbox": [
+            13.36802,
+            52.52031,
+            13.37079,
+            52.52964
+        ]
+    },
+    {
+        "id": "GermanyMunichMarienplatz",
+        "update": "0",
+        "country": "Germany",
+        "town": "Munich",
+        "place": "Marienplatz",
+        "bbox": [
+            11.57276,
+            48.13525,
+            11.57703,
+            48.13901
+        ]
+    },
+    {
+        "id": "GermanyMunichKarlsplatzStachus",
+        "update": "0",
+        "country": "Germany",
+        "town": "Munich",
+        "place": "Karlsplatz (Stachus)",
+        "bbox": [
+            11.56404,
+            48.13469,
+            11.56815,
+            48.14383
+        ]
+    },
+    {
+        "id": "GermanyMunichHauptbahnhof",
+        "update": "0",
+        "country": "Germany",
+        "town": "Munich",
+        "place": "Hauptbahnhof",
+        "bbox": [
+            8.6585,
+            50.10174,
+            8.66473,
+            50.10974
+        ]
+    },
+    {
+        "id": "GermanyAachenUniversityBuilding1380",
+        "update": "0",
+        "country": "Germany",
+        "town": "Aachen",
+        "place": "Aachen University Building 1380",
+        "bbox": [
+            6.07308,
+            50.77882,
+            6.07495,
+            50.78061
+        ]
+    },
+    {
+        "id": "GermanyKarlsruheEngesser",
+        "update": "0",
+        "country": "Germany",
+        "town": "Karlsruhe",
+        "place": "Engesser",
+        "bbox": [
+            8.4051,
+            49.0039,
+            8.424,
+            49.0201
+        ]
+    },
+    {
+        "id": "GermanyZurich",
+        "update": "0",
+        "country": "Germany",
+        "town": "Zurich",
+        "place": "Zurich",
+        "bbox": [
+            8.5317,
+            47.366,
+            8.5509,
+            47.3766
+        ]
+    },
+    {
+        "id": "JapanTokyoUenoStation",
+        "update": "0",
+        "country": "Japan",
+        "town": "Tokyo",
+        "place": "Ueno Station",
+        "bbox": [
+            139.77485,
+            35.70875,
+            139.77914,
+            35.71897
+        ]
+    },
+    {
+        "id": "PanamaCityMulticentroMall",
+        "update": "0",
+        "country": "Panama",
+        "town": "Panama City",
+        "place": "Multicentro Mall",
+        "bbox": [
+            -79.51926,
+            8.97255,
+            -79.51662,
+            8.98005
+        ]
+    },
+    {
+        "id": "PortugalBragaUniversity",
+        "update": "1m",
+        "country": "Portugal",
+        "town": "Braga",
+        "place": "University",
+        "bbox": [
+            -8.3988,
+            41.5585,
+            -8.39489,
+            41.56278
+        ]
+    },
+    {
+        "id": "RussiaMoscowOkhotnyRyadMall",
+        "update": "0",
+        "country": "Russia",
+        "town": "Moscow",
+        "place": "Okhotny Ryad (Охотный ряд) Mall",
+        "bbox": [
+            37.61249,
+            55.75437,
+            37.61677,
+            55.75697
+        ]
+    },
+    {
+        "id": "SpainPamplonaPublicUniversityOfNavarreUPNALectureBuilding",
+        "update": "0",
+        "country": "Spain",
+        "town": "Pamplona",
+        "place": "Public University of Navarre (UPNA) Lecture Building",
+        "bbox": [
+            -1.63829,
+            42.7945,
+            -1.63288,
+            42.80341
+        ]
+    },
+    {
+        "id": "UnitedStatesLosAngelesUnionStation",
+        "update": "0",
+        "country": "United States",
+        "town": "Los Angeles",
+        "place": "Union Station",
+        "bbox": [
+            -118.23776,
+            34.05046,
+            -118.23308,
+            34.06171
+        ]
+    },
+    {
+        "id": "UnitedStatesDenverUnionStation",
+        "update": "0",
+        "country": "United States",
+        "town": "Denver",
+        "place": "Denver Union Station",
+        "bbox": [
+            -105.00212,
+            39.7514,
+            -104.9995,
+            39.75609
+        ]
+    },
+    {
+        "id": "UnitedStatesNorthglennHighSchool",
+        "update": "0",
+        "country": "United States",
+        "town": "Northglenn",
+        "place": "Northglenn High School",
+        "bbox": [
+            -104.99587,
+            39.87773,
+            -104.99256,
+            39.8824
+        ]
+    },
+    {
+        "id": "UnitedStatesNewYorkCityGrandCentralTerminal",
+        "update": "0",
+        "country": "United States",
+        "town": "New York City",
+        "place": "Grand Central Terminal",
+        "bbox": [
+            -73.97845,
+            40.75032,
+            -73.97475,
+            40.75498
+        ]
+    }
+]
