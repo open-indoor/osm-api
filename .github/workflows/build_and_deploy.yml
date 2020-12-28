@@ -7,7 +7,7 @@ on:
 
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
-  IMAGE: openindoor/oms-api
+  IMAGE: openindoor/osm-api
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}
   GKE_CLUSTER: cluster-1
   GKE_ZONE: europe-north1-a
