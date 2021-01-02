@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.703009,
+                            48.120752
+                        ],
+                        [
+                            -1.70347,
+                            48.12076
+                        ],
+                        [
+                            -1.703676,
+                            48.120765
+                        ],
+                        [
+                            -1.703683,
+                            48.120579
+                        ],
+                        [
+                            -1.703066,
+                            48.120567
+                        ],
+                        [
+                            -1.70293,
+                            48.120567
+                        ],
+                        [
+                            -1.70293,
+                            48.120654
+                        ],
+                        [
+                            -1.70293,
+                            48.12066
+                        ],
+                        [
+                            -1.70293,
+                            48.120752
+                        ],
+                        [
+                            -1.703009,
+                            48.120752
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "France",
+                "id": "FranceRennesCFMIRennes2LaPresidence",
+                "place": "CFMI Rennes 2 - La Présidence",
+                "town": "Rennes",
+                "update": "0"
+            }
+        }
+    ]
+}
