@@ -1,9 +1,12 @@
 #!/bin/bash
 
-action getOsm --bounds=/data/bulgaria/BulgariaHaskovoXackoboGeorgiKirkovStreet_bounds.geojson
-action getOsm --bounds=/data/japan/JapanTokyoUniversityOfTechnology_bounds.geojson
-action getOsm --bounds=/data/france/FranceRennesCFMIRennes2BatS_bounds.geojson
-action getOsm --bounds=/data/france/FranceRennesCFMIRennes2LaPresidence_bounds.geojson
+# action getOsm --bounds=/data/bulgaria/BulgariaHaskovoXackoboGeorgiKirkovStreet_bounds.geojson
+# action getOsm --bounds=/data/japan/JapanTokyoUniversityOfTechnology_bounds.geojson
+# action getOsm --bounds=/data/france/FranceRennesCFMIRennes2BatS_bounds.geojson
+# action getOsm --bounds=/data/france/FranceRennesCFMIRennes2LaPresidence_bounds.geojson
+action getOsm --bounds=/data/france/FranceRoissyEnFranceAroportDeParisCharlesDeGaulle_bounds.geojson
+
+
 # action filter \
 #     --input=/data/bulgaria/BulgariaHaskovoXackoboGeorgiKirkovStreet.osm \
 #     --bounds=/data/bulgaria/BulgariaHaskovoXackoboGeorgiKirkovStreet_bounds.geojson \

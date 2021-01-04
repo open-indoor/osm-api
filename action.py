@@ -63,10 +63,10 @@ def getOsm(myGeojson):
         print("request: " + overpass)
         try:
             overpass_request = requests.get(overpass)
-            with open(osmFileTmp, 'wb') as osm_file_tmp:
-                osm_file_tmp.write(overpass_request.content)
         except:
             sys.exit("Cannot get osm")
+        with open(osmFileTmp, 'wb') as osm_file_tmp:
+            osm_file_tmp.write(overpass_request.content)
         a_file = open(osmFileTmp)
         line1 = a_file.readline()
         line2 = a_file.readline()
@@ -140,10 +140,10 @@ def main():
         try:
             places_request = requests.get(placesApiUrl + '/data/world')
             gj = places_request.json()
-            with open(BBOXES_GEOJSON, 'wb') as bboxes_geojson:
-                bboxes_geojson.write(places_request.content)
         except:
             sys.exit("Cannot get places")
+        with open(BBOXES_GEOJSON, 'wb') as bboxes_geojson:
+            bboxes_geojson.write(places_request.content)
 
         for feature in gj['features']:
             myGeojson = {
